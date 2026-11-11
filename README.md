@@ -13,19 +13,19 @@ Também aprendi a criar meu primeiro recurso e configurar um serviço do Azure D
 <img width="1324" height="462" alt="Dashboard Azure" src="https://github.com/user-attachments/assets/de1de971-5fe0-4c21-b782-576ac2137df3" />
 
 # Capítulo 2 – Explorando os Recursos do Azure
-Módulo 1 – Diferença entre Recursos Pagos, Precificação e Métodos de Implantação
+# Módulo 1 – Diferença entre Recursos Pagos, Precificação e Métodos de Implantação
 
 Neste módulo, aprofundei meu conhecimento sobre os diferentes tipos de recursos disponíveis na Microsoft Azure, entendendo suas finalidades, características e aplicações dentro de uma infraestrutura em nuvem.
 
 Aprendi a identificar as diferenças entre os recursos e compreender como eles podem ser utilizados de acordo com as necessidades de cada projeto.
 
-Módulo 2 – Utilizando a Calculadora do Azure para Estimar Custos Mensais
+# Módulo 2 – Utilizando a Calculadora do Azure para Estimar Custos Mensais
 
 Neste módulo, aprendi como funciona a precificação dos recursos na Azure e como estimar os custos de uma infraestrutura com base nos requisitos apresentados por um arquiteto de soluções.
 
 Também conheci os diferentes planos e modelos de pagamento, entendendo como comparar alternativas, avaliar os custos envolvidos e apresentar recomendações para uma empresa, considerando suas necessidades e o orçamento disponível.
 
-Módulo 3 – Onde Estudar e como Praticar com Conta Gratuita
+# Módulo 3 – Onde Estudar e como Praticar com Conta Gratuita
 
 Conheci o Microsoft Learn, plataforma oficial da Microsoft voltada ao aprendizado de suas tecnologias e ferramentas.
 
@@ -33,7 +33,7 @@ Aprendi como navegar pela plataforma, pesquisar conteúdos, localizar documenta�
 
 Também conheci os benefícios de utilizar o Microsoft Learn como fonte de estudo contínuo, permitindo aprofundar conhecimentos sobre os serviços da Azure e acompanhar o aprendizado por meio de conteúdos organizados por temas e níveis.
 
-Módulo 4 – Utilizando os Principais Recursos de Dados para Engenharia (ADF, Fabric, Vault)
+# Módulo 4 – Utilizando os Principais Recursos de Dados para Engenharia (ADF, Fabric, Vault)
 
 Neste módulo, aprofundei meus conhecimentos sobre o Azure Data Factory (ADF) e conheci o Microsoft Fabric, explorando suas propostas e aplicações no ecossistema de dados.
 
@@ -41,7 +41,7 @@ Também realizei atividades práticas com o Azure Data Factory, entendendo melho
 
 Com isso, pude compreender melhor como o ADF pode ser utilizado para integrar fontes, organizar fluxos de dados e automatizar processos de movimentação e transformação de informações.
 
-Módulo 5 – Criando os Recursos com a Estruturação de uma Infra Completa
+# Módulo 5 – Criando os Recursos com a Estruturação de uma Infra Completa
 
 No último módulo, conheci diferentes ferramentas e tecnologias do ecossistema Azure, compreendendo suas finalidades e como podem trabalhar em conjunto na construção de uma infraestrutura completa de dados e Machine Learning.
 
